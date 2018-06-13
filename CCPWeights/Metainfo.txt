@@ -1,0 +1,17 @@
+Name of QuantLet : CCPWeights
+
+Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
+
+Description : 'Plots portfolio compositions for 8 monthly rebalanced portfolios with 55 cryptocurrencies and 16 traditional financial assests'
+
+Keywords : crypto, CRIX, cryptocurrency, portfolio,  plot, time-series, returns
+
+
+See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPDiversification_measures, CCPConstruction'
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'CCPData.mat'
+
+Example : 

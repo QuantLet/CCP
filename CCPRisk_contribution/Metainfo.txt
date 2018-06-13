@@ -1,0 +1,17 @@
+Name of QuantLet : CCPRisk_contribution
+
+Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
+
+Description : 'Calculates and plots dynamic risk contribution, measured by volatility for 8 portfolio rules considered'
+
+Keywords : crypto, CRIX, cryptocurrency, portfolio, variance, plot, time-series, risk
+
+
+See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPDiversification_measures, CCPWeights'
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'CCPData.mat'
+
+Example : 

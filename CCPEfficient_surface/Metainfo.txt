@@ -1,0 +1,17 @@
+Name of QuantLet : CCPEfficient_surface
+
+Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
+
+Description : 'Builds and plots Mean-Variance and Mean-CVaR efficient frontiers, cunstructed on daily basis'
+
+Keywords : crypto, CRIX, cryptocurrency, portfolio, plot, time-series, expected shortfall
+
+
+See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPDiversification_measures'
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'CCPData.mat'
+
+Example : 

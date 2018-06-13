@@ -1,0 +1,17 @@
+Name of QuantLet : CCPConstruction
+
+Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
+
+Description : 'Implements portfolio optimization rules, applied to cryptocurrencies and 16 traditional assets: Mean-Variance, ERC, Maximum Diversification, Mean-CVaR'
+
+Keywords : crypto, CRIX, cryptocurrency, portfolio, variance, plot, time-series, returns
+
+
+See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPDiversification_measures'
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'CCPData.mat'
+
+Example : 

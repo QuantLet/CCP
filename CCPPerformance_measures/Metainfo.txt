@@ -1,0 +1,17 @@
+Name of QuantLet : CCPPerformance_measures
+
+Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
+
+Description : 'Calculates: Sharpe ratio, Adjusted Sharpe ratio, Turnover, CEQ for 8 portfolios with cryptocurrencies'
+
+Keywords : crypto, CRIX, cryptocurrency, portfolio, variance, plot, time-series, returns
+
+
+See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPConstruction, CCPDiversification_measures'
+
+Author : Alla Petukhina
+
+Submitted : June 11 2018 by Alla Petukhina
+Datafile : 'CCPData.mat'
+
+Example : 
