@@ -20,10 +20,7 @@ Author : Alla Petukhina
 Submitted : June 11 2018 by Alla Petukhina
 Datafile : 'CCPData.mat'
 
-Example : 
 ```
-
-![Picture1](PDF_TOP_10CC.png)
 
 ### MATLAB Code
 ```matlab
