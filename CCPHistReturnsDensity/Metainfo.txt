@@ -1,10 +1,11 @@
-Name of QuantLet : CCPDescriptivestat
+Name of QuantLet : CCPHistReturnsDensity
 
 Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
 
-Description : 'Calculates traditional descriptive statistics for 55 cryptocurrencies and traditional assets and correlation matrix'
+Description : 'Plots pdf of top-10 CC returns distributions'
 
 Keywords : crypto, CRIX, cryptocurrency, variance, plot, pdf, returns
+
 
 See also : 'CCPTests, CCPBootstrap, CCPPerformance_measures, CCPDiversification_measures'
 
@@ -12,5 +13,3 @@ Author : Alla Petukhina
 
 Submitted : June 11 2018 by Alla Petukhina
 Datafile : 'CCPData.mat'
-
-Example : 
