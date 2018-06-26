@@ -1,4 +1,4 @@
-Name of QuantLet : CCPDiversification_measures
+Name of QuantLet : CCPDiversification
 
 Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
 

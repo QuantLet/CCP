@@ -1,4 +1,4 @@
-Name of QuantLet : CCPPerformance_measures
+Name of QuantLet : CCPPerformance
 
 Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
 
