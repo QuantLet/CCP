@@ -1,11 +1,20 @@
 clc
 clear
 load('CCPData.mat')
-%% Sort CCs and calculate correlation matrix
+%% Sort CCs, calculate and plot correlation matrix
 [b, ix]           = sort(nanmean(CC_CAP()), 'descend');
 CC_RET_MAX        = CC_RET_wins(:,ix(1:11));
 CC_TICK_MAX       = CC_TICK(:,ix(1:11));
 [CORR,P]          = corrcoef([CC_RET_MAX, IND_RET]);
+labelNames        = [upper(CC_TICK_MAX),IND_TICK]; 
+pfig = imagesc(CORR);
+set(gca, 'XTick', 1:size(CORR,1), 'YTick', 1:size(CORR,1),...
+    'XTickLabel',labelNames, 'YTickLabel',labelNames, 'XTickLabelRotation',45);
+title('Correlation of Top-10 CC and traditional assets')
+colorbar;
+saveas(pfig, strcat('CORR_IND_TOP_10CC','.fig'));
+saveas(pfig, strcat('CORR_IND TOP_10CC','.pdf'));
+saveas(pfig, strcat('CORR_IND TOP_10CC','.png'));
 %% Save latex table with correlation coefficients for all constituents of the investment universe
 input.data                      = round(CORR,2);
 input.tableColLabels            = [CC_TICK_MAX, IND_TICK];

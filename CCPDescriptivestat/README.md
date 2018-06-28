@@ -20,7 +20,10 @@ Author : Alla Petukhina
 Submitted : June 11 2018 by Alla Petukhina
 Datafile : 'CCPData.mat'
 
+Example : 
 ```
+
+![Picture1](CORR_IND TOP_10CC.png)
 
 ### MATLAB Code
 ```matlab
