@@ -1,6 +1,6 @@
 [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/banner.png" width="888" alt="Visit QuantNet">](http://quantlet.de/)
 
-## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CCPDescriptivestat** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/CORR_IND TOP_10CC.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
+## [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/qloqo.png" alt="Visit QuantNet">](http://quantlet.de/) **CCPDescriptivestat** [<img src="https://github.com/QuantLet/Styleguide-and-FAQ/blob/master/pictures/QN2.png" width="60" alt="Visit QuantNet 2.0">](http://quantlet.de/)
 
 ```yaml
 
@@ -23,7 +23,7 @@ Datafile : 'CCPData.mat'
 Example : 
 ```
 
-![Picture1](CORR_IND TOP_10CC.png)
+![Picture1](CORR_IND_TOP_10CC.png)
 
 ### MATLAB Code
 ```matlab
