@@ -4,7 +4,7 @@
 
 ```yaml
 
-Name of QuantLet : CCPHistReturnsDensity
+Name of QuantLet : CCPHistReturnsDensity_IND
 
 Published in : Risk-based versus target-based portfolio strategies in the cryptocurrency market
 
